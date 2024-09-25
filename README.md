@@ -145,7 +145,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 15. click on debug and simulate using simulation 
 
 ## CIRCUIT DIAGRAM 
- 
+![image](https://github.com/user-attachments/assets/6534d845-e4e2-407e-9794-a634b0aa5d01)
+
 
 ## STM 32 CUBE PROGRAM :
 ```
