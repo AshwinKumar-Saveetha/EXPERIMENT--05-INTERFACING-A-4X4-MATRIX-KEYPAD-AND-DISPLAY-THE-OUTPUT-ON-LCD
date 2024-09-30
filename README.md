@@ -407,7 +407,7 @@ int main(void)
  ![image](https://github.com/user-attachments/assets/1e4cc65f-8492-4b49-9193-7f22d64e0043)
 
  
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  ![image](https://github.com/user-attachments/assets/fcd9c403-971a-4f6c-99f2-14799b71a992)
 
