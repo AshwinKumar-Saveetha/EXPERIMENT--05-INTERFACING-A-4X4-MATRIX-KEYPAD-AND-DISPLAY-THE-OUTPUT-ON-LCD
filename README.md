@@ -402,8 +402,6 @@ int main(void)
 ```
 <br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br>
 ## Output screen shots of proteus  :
  ![image](https://github.com/user-attachments/assets/1e4cc65f-8492-4b49-9193-7f22d64e0043)
 
